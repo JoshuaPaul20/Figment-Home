@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Figment_Landing/static/css/main.782f09a2.css",
+    "main.js": "/Figment_Landing/static/js/main.66709c27.js",
+    "index.html": "/Figment_Landing/index.html",
+    "main.782f09a2.css.map": "/Figment_Landing/static/css/main.782f09a2.css.map",
+    "main.66709c27.js.map": "/Figment_Landing/static/js/main.66709c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.782f09a2.css",
+    "static/js/main.66709c27.js"
+  ]
+}
